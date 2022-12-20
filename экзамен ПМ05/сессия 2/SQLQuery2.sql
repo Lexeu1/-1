@@ -1,0 +1,31 @@
+--Create table abonent
+--(
+--Id int not null,
+--FIO varchar(200),
+--adres varchar(100),
+--Primary key (id)
+--)
+--Create table razgovori
+--(
+--id int not null,
+--date_razgovora date,
+--prodolzitelnost time,
+--primary key (id) 
+--);
+
+--Create table tarif 
+--(
+--  id int not null,
+--  nazvanie varchar(50),
+--  kod_city int,
+--  oplata varchar(40),
+--  primary key (id)
+--);
+--Create table nomer_tel
+--(
+-- id int not null,
+-- nomer_telefona int,
+-- data_ust date,
+-- nom_razg date,
+-- primary key (id)
+--)
